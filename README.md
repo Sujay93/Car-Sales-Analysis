@@ -9,6 +9,18 @@
 ## Business Problem
 A leading car dealership is facing challenges in balancing inventory distribution and optimizing pricing strategies across new, used, and certified pre-owned cars. With fluctuating price trends and disproportionate inventory composition, the dealership seeks insights to improve inventory planning, price positioning, and ultimately boost profitability.
 
+## Scope of Analysis
+1. **Inventory Challenges**
+   **Problem**
+   * A large portion of the inventory is skewed toward new cars (nearly 59%), while used and certified cars account for a much smaller         share. This could cause the risk of overstocking new cars while under serving budget focused segments
+
+  **Question to be answered:**
+  * Are we maintaining the right inventory mix?
+  * Which car categories or brands are over- or under-represented?
+ 
+     
+  
+   
 ## Insights & Recommendations
 1. **Total Cars by Status**
   * Used cars dominate the inventory, indicating strong resale market activity.
